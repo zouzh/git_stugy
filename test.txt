@@ -1,1 +1,6 @@
 This is a test file.
+It works. I'm very happy.
+I think git is very good.
+Now I'll check what I can
+do next.
+
